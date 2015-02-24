@@ -1,2 +1,4 @@
-# docker-thalassa-crowsnest
-Thalassa Crowsnest Docker-ized.
+# Thalassa Crowsnest
+## Docker Container
+
+@TODO: Show environment variables.

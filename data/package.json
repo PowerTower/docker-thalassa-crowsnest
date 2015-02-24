@@ -1,0 +1,7 @@
+{
+  "name": "thalassa-docker-crowsnest",
+  "private": true,
+  "dependencies": {
+    "thalassa-crowsnest": "^0.3.0"
+  }
+}
